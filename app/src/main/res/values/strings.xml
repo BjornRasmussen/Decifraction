@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Decifraction</string>
+    <string name="enterDecimalHint">Enter a decimal</string>
+    <string name="calculateDecimalButton">Calculate</string>
+</resources>
